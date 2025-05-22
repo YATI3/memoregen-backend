@@ -1,1 +1,2 @@
-# memoregen-backend
+# MemoRegen Backend
+Instructions de déploiement...
